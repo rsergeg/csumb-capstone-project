@@ -20,5 +20,5 @@ Use this glossary for AZ-900 and future Azure certification notes.
 ## TODO
 
 - [ ] Add examples from AZ-900 modules.
-- [ ] Link related notes from [[../Certifications/AZ-900/Notes/Module-01-Cloud-Concepts]].
+- [ ] Link related notes from [[00-Cloud-Concepts]].
 - [ ] Expand glossary for AZ-104, SC-900, and PowerShell topics.

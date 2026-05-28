@@ -4,12 +4,12 @@ Related: [[../Certificates/AZ-900 Azure Fundamentals]] · [[../Certificates/AZ-1
 
 ## Completion Tracker
 
-| Certificate / Learning Path | Status | Date Completed | Evidence Link | Notes |
-| --- | --- | --- | --- | --- |
-| AZ-900 Azure Fundamentals | Not started |  |  |  |
-| AZ-104 Azure Administrator | Not started |  |  |  |
-| MD-102 Endpoint Administrator | Not started |  |  |  |
-| Copilot / AI Admin Fundamentals | Not started |  |  |  |
+| Certificate / Learning Path     | Status      | Date Completed | Evidence Link | Notes |
+| ------------------------------- | ----------- | -------------- | ------------- | ----- |
+| AZ-900 Azure Fundamentals       | Started     |                |               |       |
+| AZ-104 Azure Administrator      | Not started |                |               |       |
+| MD-102 Endpoint Administrator   | Not started |                |               |       |
+| Copilot / AI Admin Fundamentals | Not started |                |               |       |
 
 ## Evidence Checklist
 
