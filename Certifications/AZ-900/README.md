@@ -37,7 +37,7 @@ AZ-900 supports the capstone by showing foundational cloud knowledge that can co
 | Area | Status | Notes |
 | --- | --- | --- |
 | Study plan created | TODO |  |
-| Module notes started | TODO | [[00-Cloud-Concepts]] |
+| Module notes started | TODO | [[00 - Cloud-Concepts]] |
 | Labs started | TODO | [[Labs]] |
 | Study hours logged | TODO | [[../../Hours Tracking/Certification_Hours_Log]] |
 | Quiz prep started | TODO | [[Quiz Prep]] |
@@ -47,7 +47,7 @@ AZ-900 supports the capstone by showing foundational cloud knowledge that can co
 
 ## AZ-900 Folder Map
 
-- [[00-Cloud-Concepts]]
+- [[00 - Cloud-Concepts]]
 - [[Study Logs]]
 - [[Weekly Reflections]]
 - [[Labs]]
