@@ -6,7 +6,7 @@ Related: [[../Projects/Final Applied Project]] · [[Screenshot Log]] · [[../CSU
 
 | Artifact | Related Certificate / Project | Status | Link | Notes |
 | --- | --- | --- | --- | --- |
-|  |  | Draft |  |  |
+| AZ-900 study hours - 2026-05-27 | AZ-900 Azure Fundamentals | Draft | [[../Certifications/AZ-900/Portfolio Evidence/Hours]] | Daily total updated to 4.0 hours across the preserved 2h35m session and the separate 1h25m Benefits of Cloud Computing session. |
 
 ## Artifact Checklist
 
