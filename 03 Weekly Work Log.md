@@ -6,7 +6,7 @@ Use this note to track certificate, lab, project, and portfolio work. Copy from 
 
 | Date Range | Certificate / Project | Hours Completed | Evidence Updated | Notes |
 | --- | --- | ---: | --- | --- |
-| May 27-Jun 2, 2026 | AZ-900 Azure Fundamentals | 3.6 | [[Hours Tracking/Certification_Hours_Log]] | Completed 155 minutes of Coursera Azure Fundamentals coursework, 25 minutes of review, and seven 5-minute flashcard sessions, rounded to 3.6 hours. |
+| May 27-Jun 2, 2026 | AZ-900 Azure Fundamentals | 5.0 | [[Hours Tracking/Certification_Hours_Log]] | Completed the original 215-minute AZ-900 session, including supplemental review and flashcards, plus a separate 85-minute Benefits of Cloud Computing session, for 300 minutes total. |
 
 ## Weekly Entries
 
@@ -14,9 +14,9 @@ Use this note to track certificate, lab, project, and portfolio work. Copy from 
 
 **Date range:** May 27-Jun 2, 2026  
 **Certificate worked on:** AZ-900 Azure Fundamentals  
-**Hours completed:** 3.6  
-**Modules/labs completed:** Coursera / Essentials with Azure Fundamentals: Introduction to Cloud Computing Essentials with Azure Management; General Generative AI; What is Cloud Computing?  
-**Evidence captured:** Quiz/practice assignment scores recorded: 100%, 100%, and 80%. Supplemental review and seven 5-minute flashcard sessions completed.  
+**Hours completed:** 5.0  
+**Modules/labs completed:** Coursera / Essentials with Azure Fundamentals: Introduction to Cloud Computing Essentials with Azure Management; General Generative AI; What is Cloud Computing?; Benefits of Cloud Computing  
+**Evidence captured:** Quiz/practice assignment scores recorded: 100%, 100%, 80%, Benefits of Cloud Computing activity 100%, and Benefits of Cloud Computing knowledge check 80%. Benefits flashcard review completed.  
 **GitHub/portfolio updates:**  
 **Reflection:**  
 **Next actions:**  

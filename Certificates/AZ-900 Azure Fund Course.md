@@ -20,7 +20,7 @@ Build baseline Azure knowledge for cloud concepts, core services, security, gove
 
 | Date | Module or Lab | Hours | Evidence Link | Notes |
 | --- | --- | ---: | --- | --- |
-|  |  |  |  |  |
+| 2026-05-27 | Essentials with Azure Fundamentals: Intro, General Generative AI, What is Cloud Computing, Benefits of Cloud Computing | 5.0 | [[../Certifications/AZ-900/Portfolio Evidence/Hours]] | Daily total includes restored 3h35m original session plus separate 1h25m Benefits of Cloud Computing session. |
 
 ## Exam / Completion Notes
 
