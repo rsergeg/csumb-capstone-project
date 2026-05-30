@@ -6,7 +6,7 @@ Related: [[../Certificates/AZ-900 Azure Fundamentals]] · [[../Certificates/AZ-1
 
 | Certificate / Learning Path     | Status      | Date Completed | Evidence Link | Notes |
 | ------------------------------- | ----------- | -------------- | ------------- | ----- |
-| AZ-900 Azure Fundamentals       | Started     |                | [[../Certifications/AZ-900/Portfolio Evidence/Hours]] | 5.0 hours logged through 2026-05-27, including the restored 215-minute original session and a separate Benefits of Cloud Computing session with activity score 100% and knowledge check score 80%. |
+| AZ-900 Azure Fundamentals       | Started     |                | [[../Certifications/AZ-900/Portfolio Evidence/Hours]] | 6.95 hours logged through 2026-05-29, including the 2026-05-27 restored 215-minute original session, the 2026-05-28 85-minute Benefits of Cloud Computing session, and the 2026-05-29 117-minute Types of Cloud Computing section. Latest recorded scores: Cloud service model comparison activity 100%, Types of Cloud Computing knowledge check 100%, and Types of Cloud Computing module quiz 100%. |
 | AZ-104 Azure Administrator      | Not started |                |               |       |
 | MD-102 Endpoint Administrator   | Not started |                |               |       |
 | Copilot / AI Admin Fundamentals | Not started |                |               |       |

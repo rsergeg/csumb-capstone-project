@@ -37,9 +37,9 @@ AZ-900 supports the capstone by showing foundational cloud knowledge that can co
 | Area | Status | Notes |
 | --- | --- | --- |
 | Study plan created | TODO |  |
-| Module notes started | In progress | [[00 - Cloud-Concepts]]; Benefits of Cloud Computing notes started |
+| Module notes started | In progress | [[00 - Cloud-Concepts]]; Benefits of Cloud Computing and Types of Cloud Computing notes started |
 | Labs started | TODO | [[Labs]] |
-| Study hours logged | In progress | 5.0 hours logged through 2026-05-27 in [[../../Hours Tracking/Certification_Hours_Log]] |
+| Study hours logged | In progress | 6.95 hours logged through 2026-05-29 in [[../../Hours Tracking/Certification_Hours_Log]] |
 | Quiz prep started | TODO | [[Quiz Prep]] |
 | Portfolio evidence gathered | In progress | [[Portfolio Evidence/Hours]] |
 | Deliverables prepared | TODO | [[Deliverables]] |

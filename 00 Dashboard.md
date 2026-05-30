@@ -27,13 +27,13 @@ Estimated capstone work target: **160-200 hours**
 
 | Category | Target Hours | Completed Hours | Notes |
 | --- | ---: | ---: | --- |
-| AZ-900 Azure Fundamentals | TBD | 5.0 | [[Certificates/AZ-900 Azure Fundamentals]] |
+| AZ-900 Azure Fundamentals | TBD | 6.95 | [[Certificates/AZ-900 Azure Fundamentals]] |
 | AZ-104 Azure Administrator | TBD | 0 | [[Certificates/AZ-104 Azure Administrator]] |
 | MD-102 Endpoint Administrator | TBD | 0 | [[Certificates/MD-102 Endpoint Administrator]] |
 | Copilot / AI admin fundamentals | TBD | 0 | [[Certificates/Copilot and AI Admin Fundamentals]] |
 | PowerShell automation projects | TBD | 0 | [[Projects/PowerShell Automation]] |
 | Portfolio and CSUMB updates | TBD | 0 | [[02 CSUMB Milestones]] |
-| **Total** | **160-200** | **5.0** |  |
+| **Total** | **160-200** | **6.95** |  |
 
 ## Evidence Checklist
 
