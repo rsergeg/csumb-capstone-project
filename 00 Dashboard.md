@@ -6,14 +6,14 @@ Estimated capstone work target: **160-200 hours**
 
 ## Quick Links
 
-| Area | Notes |
-| --- | --- |
-| Planning | [[01 Timeline]] · [[02 CSUMB Milestones]] |
-| Weekly tracking | [[03 Weekly Work Log]] · [[Templates/Weekly Log Template]] |
-| Certificates | [[Certificates/AZ-900 Azure Fundamentals]] · [[Certificates/AZ-104 Azure Administrator]] · [[Certificates/MD-102 Endpoint Administrator]] · [[Certificates/Copilot and AI Admin Fundamentals]] |
-| Projects | [[Projects/Azure Labs]] · [[Projects/PowerShell Automation]] · [[Projects/Endpoint Management]] · [[Projects/Final Applied Project]] |
-| Evidence | [[Evidence/Screenshot Log]] · [[Evidence/Certificate Completion Log]] · [[Evidence/Portfolio Evidence Tracker]] |
-| CSUMB updates | [[CSUMB Updates/Week 8 ILP Update Draft]] · [[CSUMB Updates/Week 14 Artifact Submission Draft]] · [[CSUMB Updates/Week 16 Final Presentation Notes]] |
+| Area            | Notes                                                                                                                                                                                          |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Planning        | [[01 Timeline]] · [[02 CSUMB Milestones]]                                                                                                                                                      |
+| Weekly tracking | [[03 Weekly Work Log]] · [[Templates/Weekly Log Template]]                                                                                                                                     |
+| Certificates    | [[Certificates/AZ-900 Azure Fundamentals]] · [[Certificates/AZ-104 Azure Administrator]] · [[Certificates/MD-102 Endpoint Administrator]] · [[Certificates/Copilot and AI Admin Fundamentals]] |
+| Projects        | [[Projects/Azure Labs]] · [[Projects/PowerShell Automation]] · [[Projects/Endpoint Management]] · [[Projects/Final Applied Project]]                                                           |
+| Evidence        | [[Evidence/Screenshot Log]] · [[Evidence/Certificate Completion Log]] · [[Evidence/Portfolio Evidence Tracker]]                                                                                |
+| CSUMB updates   | [[CSUMB Updates/Week 8 ILP Update Draft]] · [[CSUMB Updates/Week 14 Artifact Submission Draft]] · [[CSUMB Updates/Week 16 Final Presentation Notes]]                                           |
 
 ## Current Focus
 
