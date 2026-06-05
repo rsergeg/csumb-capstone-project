@@ -2,7 +2,7 @@
 
 Course: Essentials with Azure Fundamentals
 
-Running total through 2026-05-29: 417 minutes / 6 hours 57 minutes / 6.95 hours
+Running total through 2026-06-05: 11.31 hours
 
 ## 2026-05-27
 
@@ -95,3 +95,39 @@ Session total: 117 minutes / 1 hour 57 minutes / 1.95 hours
 Study notes: Completed the Types of Cloud Computing section, reviewed cloud service model comparison concepts, completed all recorded activities and checks with 100%, and completed the Introduction to Cloud Computing additional resources.
 
 Running total through 2026-05-29: 417 minutes / 6 hours 57 minutes / 6.95 hours
+
+## 2026-06-05
+
+Logged hours for 2026-06-05: 4.36 hours
+
+### Session 1: Exploring Core Azure Services and High Availability Options
+
+- Core Azure Services section - 48 minutes
+- High Availability Options in Azure section - 56 minutes
+- Notes, quiz review, and study reinforcement - 30 minutes
+- Activity: Compute service use case - Grade: 100%
+- Knowledge check: Key Advantages of Cloud Computing - Grade: 100%
+- Activity: Implementing availability zones - Grade: 100%
+- Knowledge check: High Availability Options in Azure - Grade: 100%
+
+Session total: 134 minutes / 2 hours 14 minutes / 2.23 hours
+
+### Session 2: Integrating Azure Services
+
+- Azure Service Bus - 6 minutes
+- Azure Service Bus reading - 10 minutes
+- Understanding API and Azure API Management - 10 minutes
+- Azure API Management - 10 minutes
+- Azure Logic Apps - 9 minutes
+- Azure Event Grid - 10 minutes
+- Workflow Automation with Azure Logic Apps activity - 20 minutes - Grade: 100%
+- Integrating Azure Services knowledge check - 15 minutes - Grade: 100%
+- Module Summary - 3 minutes
+- Module Quiz - 30 minutes - Grade: 90%
+- Additional Resources - 5 minutes
+
+Session total: 128 minutes / 2 hours 8 minutes / 2.13 hours
+
+Study notes: Completed Module 2 work on core Azure services, high availability options, and integrating Azure services. Reinforced compute, pricing, availability zones, load balancing, traffic routing, Service Bus messaging, API Management, Logic Apps workflow automation, and Event Grid event-driven integration.
+
+Running total through 2026-06-05: 9.18 + 2.13 = 11.31 hours

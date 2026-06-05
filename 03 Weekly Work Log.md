@@ -7,6 +7,7 @@ Use this note to track certificate, lab, project, and portfolio work. Copy from 
 | Date Range | Certificate / Project | Hours Completed | Evidence Updated | Notes |
 | --- | --- | ---: | --- | --- |
 | May 27-Jun 2, 2026 | AZ-900 Azure Fundamentals | 6.95 | [[Hours Tracking/Certification_Hours_Log]] | Completed the original 215-minute AZ-900 session on 2026-05-27, the 85-minute Benefits of Cloud Computing session on 2026-05-28, and the 117-minute Types of Cloud Computing section on 2026-05-29, for 417 minutes total. |
+| Jun 3-Jun 9, 2026 | AZ-900 Azure Fundamentals | 4.36 | [[Hours Tracking/Certification_Hours_Log]]; [[Certifications/AZ-900/Study Logs/2026-06-05]] | Completed two Module 2 study sessions on 2026-06-05 covering core Azure services, high availability options, and integrating Azure services. |
 
 ## Weekly Entries
 
@@ -20,6 +21,17 @@ Use this note to track certificate, lab, project, and portfolio work. Copy from 
 **GitHub/portfolio updates:**  
 **Reflection:**  
 **Next actions:**  
+
+### Week 2: Jun 3-Jun 9, 2026
+
+**Date range:** Jun 3-Jun 9, 2026  
+**Certificate worked on:** AZ-900 Azure Fundamentals  
+**Hours completed:** 4.36  
+**Modules/labs completed:** Module 2: Exploring Core Azure Services; High Availability Options in Azure; Integrating Azure Services  
+**Evidence captured:** Compute service use case activity 100%, Key Advantages of Cloud Computing knowledge check 100%, Implementing availability zones activity 100%, High Availability Options in Azure knowledge check 100%, Workflow Automation with Azure Logic Apps activity 100%, Integrating Azure Services knowledge check 100%, and Module Quiz 90%.  
+**GitHub/portfolio updates:** Updated certification hours log, AZ-900 study log, portfolio hours evidence, and repository tree snapshot.  
+**Reflection:** Strengthened understanding of Azure compute, pricing, availability zones, load balancing, traffic routing, Service Bus messaging, API Management, Logic Apps workflow automation, and Event Grid event-driven integration.  
+**Next actions:** Review missed Module Quiz concepts and continue the next AZ-900 module section.  
 
 - [ ] Add first weekly entry.
 - [ ] Link related notes from [[Certificates/AZ-900 Azure Fundamentals]], [[Projects/Azure Labs]], or [[Projects/PowerShell Automation]].

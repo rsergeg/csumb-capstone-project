@@ -6,12 +6,12 @@ Use this log to track daily work across AZ-900 and future certifications such as
 
 | Certification / Area | Total Hours | Notes |
 | --- | ---: | --- |
-| AZ-900 Azure Fundamentals | 6.95 | [[../Certifications/AZ-900/README]] |
+| AZ-900 Azure Fundamentals | 11.31 | [[../Certifications/AZ-900/README]] |
 | AZ-104 Azure Administrator | 0 | TODO |
 | SC-900 Security, Compliance, and Identity Fundamentals | 0 | TODO |
 | PowerShell / automation | 0 | TODO |
 | Portfolio and deliverables | 0 | [[../Portfolio/Capstone_Portfolio_Index]] |
-| **Overall Total** | **6.95** |  |
+| **Overall Total** | **11.31** |  |
 
 ## Daily Log
 
@@ -20,6 +20,8 @@ Use this log to track daily work across AZ-900 and future certifications such as
 | 2026-05-27 | AZ-900 Azure Fundamentals | Essentials with Azure Fundamentals: Intro; General Generative AI; What is Cloud Computing? | Coursera / Essentials with Azure Fundamentals | 3.58 | Completed original 215-minute session covering course setup, Generative AI concepts and terminology, AI risks and shortcomings, business use cases, cloud computing basics and use cases, and cloud innovation trends. Completed quizzes/practice assignments with scores: 100%, 100%, and 80%. Included 60 minutes of flashcards and supplemental Azure / Generative AI concept and practice-question review. Daily total: 215 minutes / 3 hours 35 minutes / 3.58 hours. |
 | 2026-05-28 | AZ-900 Azure Fundamentals | Essentials with Azure Fundamentals: Benefits of Cloud Computing | Coursera / Essentials with Azure Fundamentals | 1.42 | Studied cloud infrastructure benefits, reviewed economic benefits of cloud computing, covered security and compliance concepts, reviewed security practices in cloud environments, completed the Benefits of Cloud Computing activity with 100%, completed the Benefits of Cloud Computing knowledge check with 80%, and completed flashcard review. Daily total: 85 minutes / 1 hour 25 minutes / 1.42 hours. Running total through 2026-05-28: 300 minutes / 5.00 hours. |
 | 2026-05-29 | AZ-900 Azure Fundamentals | Essentials with Azure Fundamentals: Types of Cloud Computing | Coursera / Essentials with Azure Fundamentals | 1.95 | Completed Types of Cloud Computing study section. Activity: Cloud service model comparison - 100%. Knowledge check: Types of Cloud Computing - 100%. Module quiz: Types of Cloud Computing - 100%, submitted May 29, 2026 at 10:22 PM PDT, attempt 1 of 3. Additional resources: Introduction to Cloud Computing - completed. Daily total: 117 minutes / 1 hour 57 minutes / 1.95 hours. AZ-900 running total: 417 minutes / 6 hours 57 minutes / 6.95 hours. |
+| 2026-06-05 | AZ-900 Azure Fundamentals | Module 2: Exploring Core Azure Services | Coursera / AZ-900 Azure Fundamentals | 2.23 | Completed Key Advantages of Cloud Computing section, Azure services overview video, Azure service categories video, Azure Compute services reading, Azure Pricing Calculator reading, Activity: Compute service use case with 100%, and Knowledge check: Key Advantages of Cloud Computing with 100%. Completed High Availability Options in Azure section, Introduction to high availability in Azure video, Azure availability zones video, Glossary: Azure Load Balancer terms reading, Azure Load Balancer reading, Azure Load Balancer and health probes reading, Azure Traffic Manager overview reading, Activity: Implementing availability zones with 100%, and Knowledge check: High Availability Options in Azure with 100%. Created and reviewed study notes throughout the session. Time breakdown: Core Azure Services section - 48 minutes; High Availability Options in Azure section - 56 minutes; notes, quiz review, and study reinforcement - 30 minutes. Daily total: 134 minutes / 2 hours 14 minutes / 2.23 hours. AZ-900 running total: 551 minutes / 9 hours 11 minutes / 9.18 hours. |
+| 2026-06-05 | AZ-900 Azure Fundamentals | Module 2: Integrating Azure Services | Coursera / AZ-900 Azure Fundamentals | 2.13 | Completed Azure Service Bus video, Azure Service Bus reading, Understanding API and Azure API Management, Azure API Management, Azure Logic Apps, Azure Event Grid, Workflow Automation with Azure Logic Apps activity with 100%, Integrating Azure Services knowledge check with 100%, Module Summary, Module Quiz with 90%, and Additional Resources. Lessons reinforced: asynchronous messaging with Service Bus, API gateway and lifecycle management with Azure API Management, workflow automation with Logic Apps, event-driven integration with Event Grid, and how integration services connect applications and cloud resources. Daily session total: 128 minutes / 2 hours 8 minutes / 2.13 hours. AZ-900 running total: 11.31 hours. |
 
 ## TODO
 
