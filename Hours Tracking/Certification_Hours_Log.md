@@ -6,12 +6,12 @@ Use this log to track daily work across AZ-900 and future certifications such as
 
 | Certification / Area | Total Hours | Notes |
 | --- | ---: | --- |
-| AZ-900 Azure Fundamentals | 11.31 | [[../Certifications/AZ-900/README]] |
+| AZ-900 Azure Fundamentals | 13.58 | [[../Certifications/AZ-900/README]] |
 | AZ-104 Azure Administrator | 0 | TODO |
 | SC-900 Security, Compliance, and Identity Fundamentals | 0 | TODO |
 | PowerShell / automation | 0 | TODO |
 | Portfolio and deliverables | 0 | [[../Portfolio/Capstone_Portfolio_Index]] |
-| **Overall Total** | **11.31** |  |
+| **Overall Total** | **13.58** |  |
 
 ## Daily Log
 
@@ -22,6 +22,7 @@ Use this log to track daily work across AZ-900 and future certifications such as
 | 2026-05-29 | AZ-900 Azure Fundamentals | Essentials with Azure Fundamentals: Types of Cloud Computing | Coursera / Essentials with Azure Fundamentals | 1.95 | Completed Types of Cloud Computing study section. Activity: Cloud service model comparison - 100%. Knowledge check: Types of Cloud Computing - 100%. Module quiz: Types of Cloud Computing - 100%, submitted May 29, 2026 at 10:22 PM PDT, attempt 1 of 3. Additional resources: Introduction to Cloud Computing - completed. Daily total: 117 minutes / 1 hour 57 minutes / 1.95 hours. AZ-900 running total: 417 minutes / 6 hours 57 minutes / 6.95 hours. |
 | 2026-06-05 | AZ-900 Azure Fundamentals | Module 2: Exploring Core Azure Services | Coursera / AZ-900 Azure Fundamentals | 2.23 | Completed Key Advantages of Cloud Computing section, Azure services overview video, Azure service categories video, Azure Compute services reading, Azure Pricing Calculator reading, Activity: Compute service use case with 100%, and Knowledge check: Key Advantages of Cloud Computing with 100%. Completed High Availability Options in Azure section, Introduction to high availability in Azure video, Azure availability zones video, Glossary: Azure Load Balancer terms reading, Azure Load Balancer reading, Azure Load Balancer and health probes reading, Azure Traffic Manager overview reading, Activity: Implementing availability zones with 100%, and Knowledge check: High Availability Options in Azure with 100%. Created and reviewed study notes throughout the session. Time breakdown: Core Azure Services section - 48 minutes; High Availability Options in Azure section - 56 minutes; notes, quiz review, and study reinforcement - 30 minutes. Daily total: 134 minutes / 2 hours 14 minutes / 2.23 hours. AZ-900 running total: 551 minutes / 9 hours 11 minutes / 9.18 hours. |
 | 2026-06-05 | AZ-900 Azure Fundamentals | Module 2: Integrating Azure Services | Coursera / AZ-900 Azure Fundamentals | 2.13 | Completed Azure Service Bus video, Azure Service Bus reading, Understanding API and Azure API Management, Azure API Management, Azure Logic Apps, Azure Event Grid, Workflow Automation with Azure Logic Apps activity with 100%, Integrating Azure Services knowledge check with 100%, Module Summary, Module Quiz with 90%, and Additional Resources. Lessons reinforced: asynchronous messaging with Service Bus, API gateway and lifecycle management with Azure API Management, workflow automation with Logic Apps, event-driven integration with Event Grid, and how integration services connect applications and cloud resources. Daily session total: 128 minutes / 2 hours 8 minutes / 2.13 hours. AZ-900 running total: 11.31 hours. |
+| 2026-06-06 | AZ-900 Azure Fundamentals | Module 3: Azure Management and Governance | Coursera / AZ-900 Azure Fundamentals | 2.27 | Completed Section 1: Azure Resource Manager (ARM) Templates, including Introduction to Azure Resource Manager - 5 minutes, Creating an ARM template using Visual Studio Code - 10 minutes, ARM template authoring walkthrough - 10 minutes, Azure Resource Manager template use cases - 5 minutes, Activity: ARM Template modification challenge - 20 minutes with 100%, and Knowledge check: Azure Resource Manager (ARM) Templates - 15 minutes with 100%. Section 1 total: 65 minutes / 1.08 hours. Completed Section 2: Azure Policy, including Introduction to Azure Policy - 8 minutes, Azure Policy overview - 10 minutes, Implementing Azure policies at scale - 8 minutes, Comparing Azure RBAC, Azure Policy & Azure Blueprints - 10 minutes, Activity: Implement an Azure policy - 20 minutes with 100%, and Knowledge check: Azure Policy - 15 minutes with 100%. Section 2 total: 71 minutes / 1.18 hours. Daily total: 136 minutes / 2 hours 16 minutes / 2.27 hours. AZ-900 running total: 13.58 hours. |
 
 ## TODO
 

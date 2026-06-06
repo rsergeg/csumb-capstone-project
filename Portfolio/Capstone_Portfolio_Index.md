@@ -6,7 +6,7 @@ Use this index to organize evidence that may be included in the final CSUMB caps
 
 | Certification | Status | Evidence Link | Notes |
 | --- | --- | --- | --- |
-| AZ-900 Azure Fundamentals | In progress | [[../Certifications/AZ-900/README]] | 6.95 hours logged through 2026-05-29; study-hours evidence started. |
+| AZ-900 Azure Fundamentals | In progress | [[../Certifications/AZ-900/README]] | 13.58 hours logged through 2026-06-06; study-hours evidence updated through Module 3 Azure Management and Governance. |
 | AZ-104 Azure Administrator | TODO |  | Future expansion |
 | SC-900 Security, Compliance, and Identity Fundamentals | TODO |  | Future expansion |
 | PowerShell / automation | TODO |  | Future expansion |

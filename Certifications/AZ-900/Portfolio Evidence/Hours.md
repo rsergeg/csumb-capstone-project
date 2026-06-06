@@ -2,7 +2,7 @@
 
 Course: Essentials with Azure Fundamentals
 
-Running total through 2026-06-05: 11.31 hours
+Running total through 2026-06-06: 13.58 hours
 
 ## 2026-05-27
 
@@ -131,3 +131,37 @@ Session total: 128 minutes / 2 hours 8 minutes / 2.13 hours
 Study notes: Completed Module 2 work on core Azure services, high availability options, and integrating Azure services. Reinforced compute, pricing, availability zones, load balancing, traffic routing, Service Bus messaging, API Management, Logic Apps workflow automation, and Event Grid event-driven integration.
 
 Running total through 2026-06-05: 9.18 + 2.13 = 11.31 hours
+
+## 2026-06-06
+
+Logged hours for 2026-06-06: 2.27 hours
+
+### Session 1: Module 3 - Azure Management and Governance
+
+#### Section 1: Azure Resource Manager (ARM) Templates
+
+- Introduction to Azure Resource Manager - 5 minutes
+- Creating an ARM template using Visual Studio Code - 10 minutes
+- ARM template authoring walkthrough - 10 minutes
+- Azure Resource Manager template use cases - 5 minutes
+- Activity: ARM Template modification challenge - 20 minutes - Grade: 100%
+- Knowledge check: Azure Resource Manager (ARM) Templates - 15 minutes - Grade: 100%
+
+Section total: 65 minutes / 1.08 hours
+
+#### Section 2: Azure Policy
+
+- Introduction to Azure Policy - 8 minutes
+- Azure Policy overview - 10 minutes
+- Implementing Azure policies at scale - 8 minutes
+- Comparing Azure RBAC, Azure Policy & Azure Blueprints - 10 minutes
+- Activity: Implement an Azure policy - 20 minutes - Grade: 100%
+- Knowledge check: Azure Policy - 15 minutes - Grade: 100%
+
+Section total: 71 minutes / 1.18 hours
+
+Session total: 136 minutes / 2 hours 16 minutes / 2.27 hours
+
+Study notes: Completed Module 3 work on Azure Management and Governance, with emphasis on ARM templates, infrastructure as code, consistent deployments, Azure Policy, governance at scale, and differences between Azure RBAC, Azure Policy, and Azure Blueprints.
+
+Running total through 2026-06-06: 11.31 + 2.27 = 13.58 hours
